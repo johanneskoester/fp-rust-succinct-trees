@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Überblick](README.md)
+* [Rust](chapter1.md)
+* [Succinct Trees](succinct-trees.md)
+

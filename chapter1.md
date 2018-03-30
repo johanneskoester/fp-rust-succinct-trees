@@ -1,3 +1,6 @@
-# First Chapter
+# Phase 1: Rust
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Zu Beginn des Fachprojekts werden die Grundlagen von Rust anhand von Vorträgen und Übungen gelernt.
+
+# 13.4.2018
+JK: Einführung in Rust

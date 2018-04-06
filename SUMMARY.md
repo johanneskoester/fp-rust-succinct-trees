@@ -1,8 +1,7 @@
 # Summary
 
 * [Überblick](README.md)
-* [Rust](rust.md)
-* [Succinct Trees](succinct-trees.md)
-* [Vorträge](vortrage.md)
-* [Implementierung](implementierung.md)
+* [Phase 1: Rust](rust.md)
+* [Phase 2: Vorträge](vortrage.md)
+* [Phase 3: Implementierung](implementierung.md)
 

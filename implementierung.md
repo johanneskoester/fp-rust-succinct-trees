@@ -11,4 +11,5 @@ Folgende Funktionen sind zu Implementieren.
 * Testfälle für alle Funktionen von BP.
 * Implementierung aller Funktionen von LOUDS mit Hilfe einer Rank/Select Datenstruktur (siehe [hier](https://www.dcc.uchile.cl/~gnavarro/ps/alenex10.pdf)).
 * Implementierung aller Funktionen von BP mit Hilfe einer Rank/Select Datenstruktur und einem Range-min-max-Tree (siehe [hier](https://arxiv.org/pdf/1601.06939.pdf)).
-* Laden und Speichern von Labels (optional)
+* Laden und Speichern von Labels.
+

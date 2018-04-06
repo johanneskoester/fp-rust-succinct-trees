@@ -4,4 +4,5 @@
 * [Rust](rust.md)
 * [Succinct Trees](succinct-trees.md)
 * [Vorträge](vortrage.md)
+* [Implementierung](implementierung.md)
 

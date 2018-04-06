@@ -5,6 +5,7 @@ Die Vortragsphase dient dazu, die Theorie hinter Succinct Trees zu erarbeiten un
 | Thema | Material | Vortragende |
 | ----- | -------- | ----------- |
 | Git und Github | | |
+| Wichtige Crates | [1](https://docs.rs/error-chain), [2](https://docs.rs/itertools) | |
 | Debugging und Profiling | | |
 | Succinct Trees: DFUDS | | |
 | Succinct Trees: BP | | |

@@ -2,11 +2,12 @@
 
 Die Vortragsphase dient dazu, die Theorie hinter Succinct Trees zu erarbeiten und zusätzliche Rust-Fähigkeiten zu erlernen.
 
-| Thema | Material | Vortragende |
-| ----- | -------- | ----------- |
-| Git und Github | | |
-| Wichtige Crates | [1](https://docs.rs/error-chain), [2](https://docs.rs/itertools) | |
-| Debugging und Profiling | | |
-| Succinct Trees: DFUDS | | |
-| Succinct Trees: BP | | |
-| Succinct Trees: LOUDS | | |
+| Bereich | Thema | Material | Vortragende |
+| ------- | ----- | -------- | ----------- |
+| Entwicklung | Wichtige Crates, Git, Github, Travis CI | [1](https://docs.rs/error-chain), [2](https://docs.rs/itertools) | |
+| Succinct Trees | BP | | |
+| Succinct Trees | DFUDS | | |
+| Succinct Trees | LOUDS | | |
+| Succinct Trees | LOUDS | | |
+| Datenstrukturen | Rank/Select | | |
+| Datenstrukturen | range-min-max tree | | |

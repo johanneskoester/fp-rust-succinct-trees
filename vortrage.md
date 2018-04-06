@@ -8,6 +8,5 @@ Die Vortragsphase dient dazu, die Theorie hinter Succinct Trees zu erarbeiten un
 | Succinct Trees | BP | | |
 | Succinct Trees | DFUDS | | |
 | Succinct Trees | LOUDS | | |
-| Succinct Trees | LOUDS | | |
 | Datenstrukturen | Rank/Select | | |
 | Datenstrukturen | range-min-max tree | | |

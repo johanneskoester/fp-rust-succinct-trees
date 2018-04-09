@@ -893,6 +893,7 @@ fn+main%28%29+{
 %2F%2F+reference%2C+take+a+look+at+the+Deref+coercions+chapter%3A
 %2F%2F+http%3A%2F%2Fdoc.rust-lang.org%2Fstable%2Fbook%2Fderef-coercions.html
 ) |
+| Structs | [5](https://doc.rust-lang.org/book/second-edition/ch05-00-structs.html) | [1](https://play.rust-lang.org/?code=%2F%2F+Make+me+compile+by+implementing+the+Circle+struct.%0A%0Afn+main%28%29+%7B%0A++++let+radius+%3D+5%3B%0A++++let+circle+%3D+Circle%3A%3Anew%28radius%29%3B%0A%0A++++println%21%28%22%7B%3A%3F%7D%22%2C+circle%29%3B%0A%7D%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%2F%2F+In+order+to+print+debugging+info+about+the+Circle%2C+you+have+to+implement%0A%2F%2F+a+so-called+trait+%28this+will+come+later%29.+For+now%2C+simply+consider+the%0A%2F%2F+information+given+here%3A+https%3A%2F%2Fdoc.rust-lang.org%2Fbook%2Fsecond-edition%2Fch05-02-example-structs.html%23adding-useful-functionality-with-derived-traits%0A) |
 | Strings | [8.1](https://doc.rust-lang.org/book/second-edition/ch08-02-strings.html) | [1](https://play.rust-lang.org/?code=%2F%2F+strings1.rs
 %2F%2F+Make+me+compile+without+changing+the+function+signature!+Scroll+down+for+hints+%3A%29
 

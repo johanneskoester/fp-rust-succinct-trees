@@ -14,7 +14,7 @@ Anschließend lesen Sie [Abschnitt 2 im Rust-Buch](https://doc.rust-lang.org/boo
 
 ## Vertiefung
 
-Im folgenden werden alle relevanten Aspekte von Rust erarbeitet, in dem jeweils ein Kapitel im Rust-Buch gelesen wird und ergänzende Übungen durchgeführt werden. Die Übungen kommen von [Rustlings](https://github.com/carols10cents/rustlings) und [Exercism](http://exercism.io/languages/rust/exercises). Im Falle von Rustlings kann die Übung direkt im Browser ausgeführt werden. Exercism-Übungen werden über das oben installierte Kommandozeilentool heruntergeladen (Sie brauchen nur die Downloadfunktion von Exercism. Eine Anmeldung ist nicht erforderlich). Zusätzlich ist es sinnvoll die Buch-Kapitel nicht nur zu lesen sondern die Beispiele selbst nachzuvollziehen.
+Im folgenden werden alle relevanten Aspekte von Rust erarbeitet, in dem jeweils ein Kapitel im Rust-Buch gelesen wird und ergänzende Übungen durchgeführt werden. Die Übungen kommen von [Rustlings](https://github.com/carols10cents/rustlings) und [Exercism](http://exercism.io/languages/rust/exercises). Im Falle von Rustlings kann die Übung direkt im Browser ausgeführt werden. Exercism-Übungen werden über das oben installierte Kommandozeilentool heruntergeladen. Zusätzlich ist es sinnvoll die Buch-Kapitel nicht nur zu lesen sondern die Beispiele selbst nachzuvollziehen.
 
 | Sprachaspekt | Lesen | Üben |
 | --- | --- | --- |
@@ -893,6 +893,7 @@ fn+main%28%29+{
 %2F%2F+reference%2C+take+a+look+at+the+Deref+coercions+chapter%3A
 %2F%2F+http%3A%2F%2Fdoc.rust-lang.org%2Fstable%2Fbook%2Fderef-coercions.html
 ) |
+| Structs | [5](https://doc.rust-lang.org/book/second-edition/ch05-00-structs.html) | [1](http://exercism.io/exercises/rust/clock/readme) |
 | Strings | [8.1](https://doc.rust-lang.org/book/second-edition/ch08-02-strings.html) | [1](https://play.rust-lang.org/?code=%2F%2F+strings1.rs
 %2F%2F+Make+me+compile+without+changing+the+function+signature!+Scroll+down+for+hints+%3A%29
 
@@ -1005,7 +1006,6 @@ fn+main%28%29+{
 ++++%28"mY+sHiFt+KeY+iS+sTiCkY".to_lowercase%28%29%29%3B
 }
 ) |
-| Structs | [5](https://doc.rust-lang.org/book/second-edition/ch05-00-structs.html) | [1](http://exercism.io/exercises/rust/clock/readme) |
 | Enumerations and pattern matching | [6.1](https://doc.rust-lang.org/book/second-edition/ch06-01-defining-an-enum.html) | [1](https://play.rust-lang.org/?code=enum+WebEvent+{
 ++++PageLoad%2C
 ++++PageUnload%2C
